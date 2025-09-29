@@ -6,5 +6,5 @@ public class NumerosSeudoaleatorios {
        System.out.println(Math.random());
      }
    }
-}   
+}
 
